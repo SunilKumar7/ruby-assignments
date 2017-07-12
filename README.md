@@ -8,6 +8,7 @@ Task 1 :<br>
 <pre>
 Input : filename.rb rowsize colsize<br>
 Output : Excel sheet board<br>
+Implemented optional tasks for excel sheet program. <br>
 </pre>
 
 Task 2 :<br> 
